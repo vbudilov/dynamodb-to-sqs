@@ -1,0 +1,9 @@
+{
+  "name": "bn-ddb-to-sqs",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "2.556.0",
+    "moment": "2.24.0"
+  }
+}
